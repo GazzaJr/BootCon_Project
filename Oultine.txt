@@ -1,0 +1,9 @@
+This is going to be a program that allows a user to mass add or remove users, as well as add/remove groups from users.
+
+The plan for this is to allow a user to upload a text file filled with user names to the program, and from there, choose what they would like to be done with this user group.
+
+This will probably have little to no use in the real world
+
+TO DO
+- Extract Users from text file (users should be seperated by a new line)
+- Create functions for add user, remove user, add group to user, remove group from user
